@@ -1,0 +1,76 @@
+.appcontainer {
+  background-color: #9ba9eb;
+  height: 150vh;
+  background-size: cover;
+}
+.logo {
+  height: 80px;
+  width: 150px;
+  margin: 10px;
+}
+.addpassword {
+  height: 300px;
+  width: 600px;
+  background-color: darkblue;
+  border-radius: 10px;
+  border-width: 0px;
+  margin: 15px;
+  display: flex;
+}
+p {
+  color: white;
+  font-size: 25px;
+  margin: 10px;
+}
+.container {
+  background-color: #c3caea;
+  height: 250px;
+  width: 300px;
+  margin: 20px;
+  border-radius: 10px;
+  border-width: 0px;
+}
+.logoimg {
+  height: 300px;
+  width: 400px;
+}
+.website {
+  height: 30px;
+  width: 40px;
+  background-color: white;
+}
+.websitecon {
+  display: flex;
+  margin: 10px;
+}
+input {
+  border-color: white;
+}
+.addbtn {
+  height: 30px;
+  width: 50px;
+  border-radius: 10px;
+  border-width: 0px;
+  color: white;
+  margin: 2px;
+  background-color: blue;
+}
+ul {
+  display: flex;
+  margin: 10px;
+}
+.items {
+  display: flex;
+  flex-direction: column;
+}
+.addpasswords {
+  height: 320px;
+  width: 600px;
+  background-color: darkblue;
+  border-radius: 10px;
+  border-width: 0px;
+  margin: 15px;
+}
+.checkbox-label {
+  color: white;
+}
